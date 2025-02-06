@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "umb13-webwonders-testing", "umb13-webwonders-testing\umb13-webwonders-testing.csproj", "{72E23A0D-C31E-4852-82DF-0E825BCE4DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E23A0D-C31E-4852-82DF-0E825BCE4DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E23A0D-C31E-4852-82DF-0E825BCE4DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E23A0D-C31E-4852-82DF-0E825BCE4DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E23A0D-C31E-4852-82DF-0E825BCE4DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A2BF0C-9050-4DEF-AF7E-D8EB14E22DD6}
+	EndGlobalSection
+EndGlobal
